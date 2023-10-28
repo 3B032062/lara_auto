@@ -1,0 +1,15 @@
+{
+    "name": "asus/lara_auto",
+    "autoload": {
+        "psr-4": {
+            "Asus\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "3B032062",
+            "email": "3B032062@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
