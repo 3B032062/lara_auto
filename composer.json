@@ -11,7 +11,9 @@
             "email": "3B032062@gm.student.ncut.edu.tw"
         }
     ],
-    "require": {},
+    "require": {
+        "monolog/monolog": "^3.5"
+    },
 	"autoload": {
          "psr-4": {
             "Demo\\": "./src/Demo"
