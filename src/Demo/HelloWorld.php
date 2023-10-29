@@ -4,6 +4,7 @@ class HelloWorld
 {
 function __construct()
 {
-echo 'Hello World ~'.PHP_EOL;
+echo 'Hello World ~ '.PHP_EOL;
+
 }
 }
